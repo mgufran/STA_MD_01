@@ -4,6 +4,7 @@ sap.ui.define([
 ], function (Controller, History) {
 	"use strict";
 //jxjx
+//rrr
 	return Controller.extend("mg.STA_MD_01.controller.BaseController", {
 		/**
 		 * Convenience method for accessing the router in every controller of the application.
