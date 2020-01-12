@@ -5,6 +5,7 @@ sap.ui.define([
 	"use strict";
 // comment
 // comment//Local branch01
+//Comment branch02
 	return BaseController.extend("mg.STA_MD_01.controller.App", {
 
 		onInit : function () {
