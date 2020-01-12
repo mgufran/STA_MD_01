@@ -3,7 +3,7 @@ sap.ui.define([
 	"sap/ui/model/json/JSONModel"
 ], function (BaseController, JSONModel) {
 	"use strict";
-
+// comment
 	return BaseController.extend("mg.STA_MD_01.controller.App", {
 
 		onInit : function () {
